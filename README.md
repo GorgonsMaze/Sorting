@@ -1,8 +1,10 @@
 # Sorting
 Different sorting algorithms, in different languages
 
-Bubble Sort
+### Bubble Sort
  * Python
  * Javascript
  * Ruby
- 
+ * Java
+
+### Merge Sort
