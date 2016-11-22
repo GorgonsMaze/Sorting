@@ -1,3 +1,5 @@
+## Bubble Sort - Ruby
+
 class BubbleSort
 
   def self.bubble_sort(lst)
@@ -22,13 +24,9 @@ class BubbleSort
 
   end
 
-
   p bubble_sort([0])
   p bubble_sort([1, 2, 3, 4, 5])
   p bubble_sort([5, 4, 3, 2, 1, 6, 8, 8])
   p bubble_sort([4, 5, 3, 1, 2, 16, 9, 66])
 
 end
-
-
-

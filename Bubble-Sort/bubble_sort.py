@@ -1,4 +1,3 @@
-
 # Bubble Sort - Python
 
 def bubble_sort(lst):
@@ -14,9 +13,6 @@ def bubble_sort(lst):
         if nswaps == 0:
             is_sorted = True
     return lst
-
-
-
 
 
 print(bubble_sort([0]))
