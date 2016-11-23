@@ -7,6 +7,7 @@ Different sorting algorithms, in different languages
  * Ruby
  * Java
  * PHP
+ * C++
  
 ### Merge Sort
  - [ ] Python
