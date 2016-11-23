@@ -6,5 +6,5 @@ Different sorting algorithms, in different languages
  * Javascript
  * Ruby
  * Java
-
+ * PHP
 ### Merge Sort
